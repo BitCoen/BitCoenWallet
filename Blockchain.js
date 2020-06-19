@@ -1313,9 +1313,9 @@ function Blockchain(config) {
                 return false;
             }
 
-            if(!wallet.accepted) {
-                return false;
-            }
+           // if(!wallet.accepted) {
+           //     return false;
+           // }
 
             //Technically we ready for transaction but this state is bad for normal mode
             if(maxBlock <= 5 || maxBlock === -1) {
