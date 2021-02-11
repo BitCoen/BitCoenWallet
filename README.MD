@@ -1,4 +1,4 @@
-**BitCoen wallet 2021**
+**BitCoen wallet based on izzzio technology. 2017-2021**
 
 * The description will be supplemented
 
