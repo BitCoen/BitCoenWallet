@@ -1,4 +1,4 @@
-**BitCoen wallet. Based on iZ³ platform 2020**
+**BitCoen wallet 2021**
 
 * The description will be supplemented
 
